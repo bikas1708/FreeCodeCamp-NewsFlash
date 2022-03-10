@@ -349,7 +349,7 @@ body.light-theme{
     top: 1rem;
     right: 1rem;
     padding: 1rem;
-    background-color:var(--primary-background-color);
+    background-color: var(--primary-background-color);
     font-size: 1rem;
     color: var(--light-color);
     text-transform: uppercase;
